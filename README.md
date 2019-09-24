@@ -1,1 +1,1 @@
-"# number recognition from MNIST D" 
+"# number recognition from MNIST Database" 
